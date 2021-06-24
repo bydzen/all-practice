@@ -1,0 +1,267 @@
+# depslib dependency file v1.0
+1587005873 source:c:\users\svnte\documents\data berobat\list_parent.cpp
+	"list_parent.h"
+
+1587003684 c:\users\svnte\documents\data berobat\list_parent.h
+	<iostream>
+	"list_relasi.h"
+
+1587001637 c:\users\svnte\documents\data berobat\list_relasi.h
+	<iostream>
+	"list_relasi.h"
+	"list_child.h"
+
+1587007048 c:\users\svnte\documents\data berobat\list_child.h
+	<iostream>
+
+1587005780 source:c:\users\svnte\documents\data berobat\list_relasi.cpp
+	"list_relasi.h"
+
+1587006489 source:c:\users\svnte\documents\data berobat\main.cpp
+	<iostream>
+	"list_child.h"
+	"list_parent.h"
+
+1587007048 source:c:\users\svnte\documents\data berobat\list_child.cpp
+	"list_child.h"
+
+1588311784 source:c:\users\svnte\documents\temporary projects\tubes multilist data berobat\data berobat\tubesmultilinklist_asd_databerobat\data berobat\list_child.cpp
+	"list_child.h"
+
+1588311740 c:\users\svnte\documents\temporary projects\tubes multilist data berobat\data berobat\tubesmultilinklist_asd_databerobat\data berobat\list_child.h
+	<iostream>
+
+1588312177 source:c:\users\svnte\documents\temporary projects\tubes multilist data berobat\data berobat\tubesmultilinklist_asd_databerobat\data berobat\list_parent.cpp
+	"list_parent.h"
+
+1588311840 c:\users\svnte\documents\temporary projects\tubes multilist data berobat\data berobat\tubesmultilinklist_asd_databerobat\data berobat\list_parent.h
+	<iostream>
+	"list_relasi.h"
+
+1588311847 c:\users\svnte\documents\temporary projects\tubes multilist data berobat\data berobat\tubesmultilinklist_asd_databerobat\data berobat\list_relasi.h
+	<iostream>
+	"list_relasi.h"
+	"list_child.h"
+
+1588311978 source:c:\users\svnte\documents\temporary projects\tubes multilist data berobat\data berobat\tubesmultilinklist_asd_databerobat\data berobat\list_relasi.cpp
+	"list_relasi.h"
+
+1587033493 D
+
+1588051789 source:e:\bagas\pendidikan\telkom university\struktur data\github tubes\tubesmultilinklist_asd_databerobat\data berobat\list_relasi.cpp
+	"list_relasi.h"
+
+1588051850 e:\bagas\pendidikan\telkom university\struktur data\github tubes\tubesmultilinklist_asd_databerobat\data berobat\list_relasi.h
+	<iostream>
+	"list_relasi.h"
+	"list_child.h"
+
+1587831813 
+
+1587194617 fac59e3dafef17b3fbf1b129b1cdfbae15db7
+	"list_relasi.h"
+	"list_child.h"
+	"list_parent.h"
+	<iostream>
+	"list_child.h"
+	"list_parent.h"
+	"list_child.h"
+	<iostream>
+	"list_relasi.h"
+	"list_child.h"
+	"list_parent.h"
+
+1587717338 e:\bagas\pendidikan\telkom university\struktur data\github tubes\tubesmultilinklist_asd_databerobat\data berobat\list_child.h
+	<iostream>
+
+1588051734 source:e:\bagas\pendidikan\telkom university\struktur data\github tubes\tubesmultilinklist_asd_databerobat\data berobat\list_parent.cpp
+	"list_parent.h"
+
+1588052183 e:\bagas\pendidikan\telkom university\struktur data\github tubes\tubesmultilinklist_asd_databerobat\data berobat\list_parent.h
+	<iostream>
+	"list_relasi.h"
+
+1588052404 source:e:\bagas\pendidikan\telkom university\struktur data\github tubes\tubesmultilinklist_asd_databerobat\data berobat\main.cpp
+	<iostream>
+	"list_child.h"
+	"list_parent.h"
+	"list_relasi.h"
+
+1588311978 source:c:\users\svnte\documents\temporary projects\tubes multilist data berobat\data berobat\tubesmultilinklist_asd_databerobat\data berobat\main.cpp
+	<iostream>
+	<iomanip>
+	"list_child.h"
+	"list_parent.h"
+	"list_relasi.h"
+
+1587890408 source:e:\bagas\pendidikan\telkom university\struktur data\github tubes\tubesmultilinklist_asd_databerobat\data berobat\list_child.cpp
+	"list_child.h"
+
+1587186535 d.h"
+
+1587446911 source:c:\users\svnte\documents\temporary projects\final comment tubes asd\data berobat\list_child.cpp
+	"list_child.h"
+
+1587446103 c:\users\svnte\documents\temporary projects\final comment tubes asd\data berobat\list_child.h
+	<iostream>
+
+1587446891 source:c:\users\svnte\documents\temporary projects\final comment tubes asd\data berobat\list_parent.cpp
+	"list_parent.h"
+
+1587446095 c:\users\svnte\documents\temporary projects\final comment tubes asd\data berobat\list_parent.h
+	<iostream>
+	"list_relasi.h"
+
+1587446149 c:\users\svnte\documents\temporary projects\final comment tubes asd\data berobat\list_relasi.h
+	<iostream>
+	"list_relasi.h"
+	"list_child.h"
+
+1587447051 source:c:\users\svnte\documents\temporary projects\final comment tubes asd\data berobat\list_relasi.cpp
+	"list_relasi.h"
+
+1587447521 source:c:\users\svnte\documents\temporary projects\final comment tubes asd\data berobat\main.cpp
+	<iostream>
+	"list_child.h"
+	"list_parent.h"
+
+1587716978 source:c:\users\svnte\documents\temporary projects\big update changes v18\data berobat\list_child.cpp
+	"list_child.h"
+
+1587446103 c:\users\svnte\documents\temporary projects\big update changes v18\data berobat\list_child.h
+	<iostream>
+
+1587829393 source:c:\users\svnte\documents\temporary projects\big update changes v18\data berobat\list_parent.cpp
+	"list_parent.h"
+
+1587446095 c:\users\svnte\documents\temporary projects\big update changes v18\data berobat\list_parent.h
+	<iostream>
+	"list_relasi.h"
+
+1587827439 c:\users\svnte\documents\temporary projects\big update changes v18\data berobat\list_relasi.h
+	<iostream>
+	"list_relasi.h"
+	"list_child.h"
+
+1587827593 source:c:\users\svnte\documents\temporary projects\big update changes v18\data berobat\list_relasi.cpp
+	"list_relasi.h"
+
+1587835974 source:c:\users\svnte\documents\temporary projects\big update changes v18\data berobat\main.cpp
+	<iostream>
+	"list_child.h"
+	"list_parent.h"
+
+1587877680 source:c:\users\svnte\documents\temporary projects\+v20\data berobat\list_child.cpp
+	"list_child.h"
+
+1587446103 c:\users\svnte\documents\temporary projects\+v20\data berobat\list_child.h
+	<iostream>
+
+1587949913 source:c:\users\svnte\documents\temporary projects\+v20\data berobat\list_parent.cpp
+	"list_parent.h"
+
+1587446095 c:\users\svnte\documents\temporary projects\+v20\data berobat\list_parent.h
+	<iostream>
+	"list_relasi.h"
+
+1587827439 c:\users\svnte\documents\temporary projects\+v20\data berobat\list_relasi.h
+	<iostream>
+	"list_relasi.h"
+	"list_child.h"
+
+1587889350 source:c:\users\svnte\documents\temporary projects\+v20\data berobat\list_relasi.cpp
+	"list_relasi.h"
+
+1587950545 source:c:\users\svnte\documents\temporary projects\+v20\data berobat\main.cpp
+	<iostream>
+	"list_child.h"
+	"list_parent.h"
+	"list_relasi.h"
+
+1587947752 c:\users\svnte\documents\temporary projects\+v20\data berobat\notfive.h
+	<iostream>
+
+1588311784 source:d:\basedata - sultan kautsar\2. sultan kautsar - documents\programming\c++\project tubes data berobat\data berobat\list_child.cpp
+	"list_child.h"
+
+1588311740 d:\basedata - sultan kautsar\2. sultan kautsar - documents\programming\c++\project tubes data berobat\data berobat\list_child.h
+	<iostream>
+
+1588311978 source:d:\basedata - sultan kautsar\2. sultan kautsar - documents\programming\c++\project tubes data berobat\data berobat\list_relasi.cpp
+	"list_relasi.h"
+
+1588311847 d:\basedata - sultan kautsar\2. sultan kautsar - documents\programming\c++\project tubes data berobat\data berobat\list_relasi.h
+	<iostream>
+	"list_relasi.h"
+	"list_child.h"
+
+1588314368 source:d:\basedata - sultan kautsar\2. sultan kautsar - documents\programming\c++\project tubes data berobat\data berobat\list_parent.cpp
+	"list_parent.h"
+
+1588311840 d:\basedata - sultan kautsar\2. sultan kautsar - documents\programming\c++\project tubes data berobat\data berobat\list_parent.h
+	<iostream>
+	"list_relasi.h"
+
+1588312219 source:d:\basedata - sultan kautsar\2. sultan kautsar - documents\programming\c++\project tubes data berobat\data berobat\main.cpp
+	<iostream>
+	<iomanip>
+	"list_child.h"
+	"list_parent.h"
+	"list_relasi.h"
+
+1588311786 source:d:\important database\sultan kautsar - database\my douments\programming\c++\data berobat - project\data berobat\list_child.cpp
+	"list_child.h"
+
+1588311742 d:\important database\sultan kautsar - database\my douments\programming\c++\data berobat - project\data berobat\list_child.h
+	<iostream>
+
+1588314370 source:d:\important database\sultan kautsar - database\my douments\programming\c++\data berobat - project\data berobat\list_parent.cpp
+	"list_parent.h"
+
+1588311842 d:\important database\sultan kautsar - database\my douments\programming\c++\data berobat - project\data berobat\list_parent.h
+	<iostream>
+	"list_relasi.h"
+
+1588311848 d:\important database\sultan kautsar - database\my douments\programming\c++\data berobat - project\data berobat\list_relasi.h
+	<iostream>
+	"list_relasi.h"
+	"list_child.h"
+
+1588311980 source:d:\important database\sultan kautsar - database\my douments\programming\c++\data berobat - project\data berobat\list_relasi.cpp
+	"list_relasi.h"
+
+1604481186 source:d:\important database\sultan kautsar - database\my douments\programming\c++\data berobat - project\data berobat\main.cpp
+	<iostream>
+	<iomanip>
+	"list_child.h"
+	"list_parent.h"
+	"list_relasi.h"
+
+1588311786 source:d:\all data\documents\programming\c++\data berobat - project\data berobat\list_child.cpp
+	"list_child.h"
+
+1588311742 d:\all data\documents\programming\c++\data berobat - project\data berobat\list_child.h
+	<iostream>
+
+1588314370 source:d:\all data\documents\programming\c++\data berobat - project\data berobat\list_parent.cpp
+	"list_parent.h"
+
+1588311842 d:\all data\documents\programming\c++\data berobat - project\data berobat\list_parent.h
+	<iostream>
+	"list_relasi.h"
+
+1588311848 d:\all data\documents\programming\c++\data berobat - project\data berobat\list_relasi.h
+	<iostream>
+	"list_relasi.h"
+	"list_child.h"
+
+1588311980 source:d:\all data\documents\programming\c++\data berobat - project\data berobat\list_relasi.cpp
+	"list_relasi.h"
+
+1604481186 source:d:\all data\documents\programming\c++\data berobat - project\data berobat\main.cpp
+	<iostream>
+	<iomanip>
+	"list_child.h"
+	"list_parent.h"
+	"list_relasi.h"
+
