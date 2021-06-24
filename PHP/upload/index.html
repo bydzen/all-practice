@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>[SERVER] Upload Files</title>
+    <style>
+        body {
+            background-color: rgb(36, 36, 36);
+            color: rgb(236, 236, 236);
+            font-size: large;
+            font-family: Fira Code;
+        }
+
+        input {
+            background-color: rgb(77, 77, 77);
+            border: none;
+            padding: 10px;
+            color: rgb(236, 236, 236);
+        }
+
+        form {
+            margin-top: 100px;
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+
+    <form action="upload-single.php" method="post" enctype="multipart/form-data">
+        Select single file to upload:
+        <br><br>
+        <input type="file" name="fileToUpload" id="fileToUpload">
+        <input type="submit" value="Upload" name="submit">
+    </form>
+
+    <form action="upload-multiple.php" method="post" enctype="multipart/form-data">
+        Select multiple file to uploads:
+        <br><br>
+        <input name="upload[]" type="file" multiple="multiple" />
+        <input type="submit" value="Upload" name="submit">
+    </form>
+
+    <form action="upload-folder.php" method="post" enctype="multipart/form-data">
+        Type Folder Name:<br><br>
+        <input type="text" name="foldername" /><br /><br />
+        Select folder to upload:<br><br>
+        <input type="file" name="files[]" id="files" multiple directory="" webkitdirectory="" moxdirectory="" />
+        <input type="Submit" value="Upload" name="upload" />
+    </form>
+
+</body>
+
+</html>
